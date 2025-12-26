@@ -73,7 +73,7 @@ ProjetoWeb/
 Este projeto foi desenvolvido com a participação de:
 
 * Carlos Moreira - [GitHub](https://github.com/ChMoreiraa)
-* Guilherme A. F. Ribeiro - [GitHub](https://github.com/guifrazao)
+* Guilherme A.  F. Ribeiro - [GitHub](https://github.com/guifrazao)
 * Gustavo Alves  - [GitHub](https://github.com/SantosGAlves)
 * Henrique C. de Andrade   - [GitHub](https://github.com/henriquecarvalhodeandrade)
 * Kendy Outi   - [GitHub](https://github.com/KendyOuti)
