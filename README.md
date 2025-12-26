@@ -1,4 +1,4 @@
-# 🍎 HortFast – Prototipagem de Interface para E-commerce de Hortifrúti
+<img width="1900" height="942" alt="Captura de tela 2025-12-26 191536" src="https://github.com/user-attachments/assets/ab7fd1fb-c3ad-4c1e-b3f3-cfb17d7e4c1c" /># 🍎 HortFast – Prototipagem de Interface para E-commerce de Hortifrúti
 
 ## 📄 Visão Geral do Projeto
 O **HortFast** é um projeto de **prototipagem de interface de usuário (UI Mockup)** para um sistema de compras online especializado em **hortifrútis**. A proposta é simular uma plataforma digital onde consumidores podem realizar pedidos em comércios locais, como hortifrúti e sacolões, além de agendar a entrega dos produtos.
@@ -55,8 +55,9 @@ Assim, será possível navegar por todas as telas do HortFast e simular a jornad
 ---
 
 🗂️ Estrutura do Projeto
-text
-Copiar código
+
+
+```
 ProjetoWeb/
 ├── css/              # Arquivos de estilo
 ├── js/               # Scripts de interatividade
@@ -66,6 +67,7 @@ ProjetoWeb/
 ├── login.html        # Tela de login
 ├── register.html     # Tela de cadastro
 └── store.html        # Catálogo de produtos
+```
 
 ---
 
